@@ -6,3 +6,9 @@
 
 ## 졸업과제 서버 주소
 * http://164.125.253.226:22223/tree
+
+## EQTransformer
+https://github.com/smousavi05/EQTransformer
+
+## LEQNet
+https://github.com/LEQNet/LEQNet
