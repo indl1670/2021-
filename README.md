@@ -13,5 +13,5 @@
 ## LEQNet
 * https://github.com/LEQNet/LEQNet
 
-### STED
+## STED
 * https://github.com/smousavi05/STEAD.git
