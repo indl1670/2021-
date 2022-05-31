@@ -26,8 +26,8 @@ monitor: val_loss
 patience: 2
 multi_gpu: False
 number_of_gpus: 4
-gpuid: None
-gpu_limit: None
+gpuid: 0
+gpu_limit: 1
 use_multiprocessing: True
 ================== Training Performance =====================
 finished the training in:  9 hours and 5 minutes and 37.76 seconds 
