@@ -25,7 +25,7 @@ total number of validation: 40000
 monitor: val_loss
 patience: 2
 multi_gpu: False
-number_of_gpus: 4
+number_of_gpus: 1
 gpuid: 0
 gpu_limit: 1
 use_multiprocessing: True
