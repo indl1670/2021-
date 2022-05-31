@@ -10,7 +10,7 @@
 ## EQTransformer
 * https://github.com/smousavi05/EQTransformer
 
-## LEQNet
+## LEQNet - EQT 경량화
 * https://github.com/LEQNet/LEQNet
 
 ## STED
