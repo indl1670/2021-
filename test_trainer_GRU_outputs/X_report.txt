@@ -6,7 +6,7 @@ output_name: test_trainer_GRU_outputs
 ================== Model Parameters =========================
 input_dimention: (6000, 3)
 cnn_blocks: 2
-lstm_blocks: 1
+gru_blocks: 1
 padding_type: same
 activation_type: relu
 drop_rate: 0.2
